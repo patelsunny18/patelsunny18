@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sunny
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development, UI/UX and human-computer interaction
 - 🌱 I’m currently learning React and NextJS
 - 📫 Want to get in touch? Here, psunny1411@gmail.com
 
